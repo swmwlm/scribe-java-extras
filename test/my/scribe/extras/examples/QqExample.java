@@ -22,10 +22,10 @@ public class QqExample
   public static void main(String[] args)
   {
     // Replace these with your own api key and secret
-    String apiKey = "101081218";
-    String apiSecret = "2702726d067421ea879a49374b8cee06";
-    String callback = "ss.pokerlala.com";
-    String openId = "D470563F38ACF83CB7F1B9657C29FC4F";
+    String apiKey = "";
+    String apiSecret = "";
+    String callback = "";
+    String openId = "";
 
     // start
     OAuthService service = new ServiceBuilder()
